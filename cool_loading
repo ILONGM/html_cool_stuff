@@ -1,0 +1,398 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charSet="utf-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <link rel="preload" as="image" href="/_next/static/media/frame.e956ee74.webp"/>
+        <link rel="preload" as="image" href="/_next/static/media/bento1.3b364800.png"/>
+        <link rel="preload" as="image" href="/_next/static/media/bento2.5d45c6ca.png"/>
+        <link rel="preload" as="image" href="/_next/static/media/bento3.b9446d98.png"/>
+        <link rel="preload" as="image" href="/_next/static/media/works.2bbce57b.png"/>
+        <link rel="preload" as="image" href="/_next/static/media/meeting.d6f4df3a.png"/>
+        <link rel="preload" as="image" href="/_next/static/media/screen.8c07aba8.png"/>
+        <link rel="preload" as="image" href="/_next/static/media/eyes.00797834.png"/>
+        <link rel="preload" as="image" href="/_next/static/media/meeting.c59aeb79.png"/>
+        <link rel="preload" as="image" href="/_next/static/media/sales.a83b1a9d.png"/>
+        <link rel="stylesheet" href="/_next/static/css/1bc6e60723b8c736.css" data-precedence="next"/>
+        <link rel="preload" as="script" fetchPriority="low" href="/_next/static/chunks/webpack-bf7038d81bb81a5b.js"/>
+        <script src="/_next/static/chunks/4bd1b696-45808b79547ef199.js" async=""></script>
+        <script src="/_next/static/chunks/684-1ede3821c3f6cd15.js" async=""></script>
+        <script src="/_next/static/chunks/main-app-037964b5d318d5f2.js" async=""></script>
+        <script src="/_next/static/chunks/874-2fe3b00f3984fea1.js" async=""></script>
+        <script src="/_next/static/chunks/277-b4c1a060303f8e58.js" async=""></script>
+        <script src="/_next/static/chunks/542-6c2540bf48ec816d.js" async=""></script>
+        <script src="/_next/static/chunks/371-87e69172ddccf52f.js" async=""></script>
+        <script src="/_next/static/chunks/app/layout-471e112ee3d170d1.js" async=""></script>
+        <script src="/_next/static/chunks/94730671-6ca32be235ea3d97.js" async=""></script>
+        <script src="/_next/static/chunks/694-e3d2f64372cd0913.js" async=""></script>
+        <script src="/_next/static/chunks/app/(index)/page-2469fe9a84699b71.js" async=""></script>
+        <link rel="preload" as="image" href="/_next/static/media/deep.b625b59c.png"/>
+        <title>Cluely</title>
+        <meta name="description" content="Everything You Need. Before You Ask."/>
+        <meta property="og:title" content="Cluely"/>
+        <meta property="og:description" content="Everything You Need. Before You Ask."/>
+        <meta property="og:image:type" content="image/png"/>
+        <meta property="og:image:width" content="1280"/>
+        <meta property="og:image:height" content="640"/>
+        <meta property="og:image" content="https://cluely.com/opengraph-image.png?77f2c7ba9633baa1"/>
+        <meta name="twitter:card" content="summary_large_image"/>
+        <meta name="twitter:title" content="Cluely"/>
+        <meta name="twitter:description" content="Everything You Need. Before You Ask."/>
+        <meta name="twitter:image:type" content="image/png"/>
+        <meta name="twitter:image:width" content="1280"/>
+        <meta name="twitter:image:height" content="640"/>
+        <meta name="twitter:image" content="https://cluely.com/twitter-image.png?77f2c7ba9633baa1"/>
+        <link rel="icon" href="/icon.svg?1e74f43885f4f740" type="image/svg+xml" sizes="any"/>
+        <script>
+            document.querySelectorAll('body link[rel="icon"], body link[rel="apple-touch-icon"]').forEach(el => document.head.appendChild(el))
+        </script>
+        <script src="/_next/static/chunks/polyfills-42372ed130431b0a.js" noModule=""></script>
+    </head>
+    <body>
+        <div class="mx-auto fixed flex left-0 right-0 top-0 w-full z-[12] items-center justify-between max-w-[76rem] select-none transition-all duration-300 ease-spring bg-transparent lg:mt-5">
+            <header class="relative isolate w-full">
+                <nav class="flex items-center justify-between p-3 lg:p-2">
+                    <div class="flex lg:flex-1 ml-2 -mt-0.5">
+                        <a class="flex items-center gap-x-0.5 transition border-b border-transparent hover:border-black" href="/">
+                            <svg class="transition size-4 mt-1" viewBox="0 0 80 80">
+                                <path fill-rule="evenodd" clip-rule="evenodd" fill="currentColor" d="M67.4307 11.5693C52.005 -3.85643 26.995 -3.85643 11.5693 11.5693C-3.85643 26.995 -3.85643 52.005 11.5693 67.4307C26.995 82.8564 52.005 82.8564 67.4307 67.4307C82.8564 52.005 82.8564 26.995 67.4307 11.5693ZM17.9332 17.9332C29.8442 6.02225 49.1558 6.02225 61.0668 17.9332C72.9777 29.8442 72.9777 49.1558 61.0668 61.0668C59.7316 62.4019 58.3035 63.5874 56.8032 64.6232L56.8241 64.6023C46.8657 54.6439 46.8657 38.4982 56.8241 28.5398L58.2383 27.1256L51.8744 20.7617L50.4602 22.1759C40.5018 32.1343 24.3561 32.1343 14.3977 22.1759L14.3768 22.1968C15.4126 20.6965 16.5981 19.2684 17.9332 17.9332ZM34.0282 38.6078C25.6372 38.9948 17.1318 36.3344 10.3131 30.6265C7.56889 39.6809 9.12599 49.76 14.9844 57.6517L34.0282 38.6078ZM21.3483 64.0156C29.24 69.874 39.3191 71.4311 48.3735 68.6869C42.6656 61.8682 40.0052 53.3628 40.3922 44.9718L21.3483 64.0156Z"></path>
+                            </svg>
+                            <span class="mt-1.5 text-lg font-medium transition">Cluely</span>
+                        </a>
+                    </div>
+                    <div class="flex lg:hidden">
+                        <button type="button" class="-m-2.5 inline-flex items-center justify-center rounded-md p-2.5 text-zinc-700">
+                            <span class="sr-only">Open main menu</span>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="currentColor" viewBox="0 0 256 256" aria-hidden="true" class="size-5.5 mr-1 outline-none">
+                                <path d="M224,128a8,8,0,0,1-8,8H40a8,8,0,0,1,0-16H216A8,8,0,0,1,224,128ZM40,72H216a8,8,0,0,0,0-16H40a8,8,0,0,0,0,16ZM216,184H40a8,8,0,0,0,0,16H216a8,8,0,0,0,0-16Z"></path>
+                            </svg>
+                        </button>
+                    </div>
+                    <div class="hidden lg:flex lg:gap-x-12">
+                        <a class="text-sm/6 font-semibold text-zinc-900 transition border-b border-transparent hover:border-black" href="/#features">How it works</a>
+                        <a class="text-sm/6 font-semibold text-zinc-900 transition border-b border-transparent hover:border-black" href="/#usage">Use cases</a>
+                        <a class="text-sm/6 font-semibold text-zinc-900 transition border-b border-transparent hover:border-black" href="/pricing">Pricing</a>
+                        <a class="text-sm/6 font-semibold text-zinc-900 transition border-b border-transparent hover:border-black" href="/help-center">Help</a>
+                        <a class="text-sm/6 font-semibold text-zinc-900 transition border-b border-transparent hover:border-black" href="/careers">Careers</a>
+                    </div>
+                    <div class="hidden lg:flex lg:flex-1 lg:justify-end items-center gap-x-5">
+                        <a class="text-sm/6 font-semibold text-zinc-900 transition border-b border-transparent hover:border-black" href="https://app.cluely.com/login">Log in</a>
+                        <a class="flex px-2 py-1 gap-x-1 text-sm/6 font-semibold rounded-full text-white bg-black hover:opacity-86" href="https://app.cluely.com/signup">
+                            Sign up
+                            <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <circle cx="10" cy="10.9469" r="10" fill="#282828"></circle>
+                                <mask id="mask0_1_567" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="20" height="21">
+                                    <circle cx="10" cy="10.9469" r="10" fill="#282828"></circle>
+                                </mask>
+                                <g mask="url(#mask0_1_567)">
+                                    <path d="M4.78544 8.12311L12.8231 8.12311M12.8231 8.12311L12.8231 16.1608M12.8231 8.12311L3.1779 17.7683" stroke="white" stroke-width="1.3" stroke-linecap="square"></path>
+                                </g>
+                            </svg>
+                        </a>
+                    </div>
+                </nav>
+                <span hidden="" style="position:fixed;top:1px;left:1px;width:1px;height:0;padding:0;margin:-1px;overflow:hidden;clip:rect(0, 0, 0, 0);white-space:nowrap;border-width:0;display:none"></span>
+            </header>
+        </div>
+        <div class="relative py-32 sm:py-48 lg:py-60 select-none bg-gradient-to-t from-blue-100 to-blue-200">
+            <div class="hidden lg:block">
+                <div class="absolute inset-0 overflow-hidden contain-paint">
+                    <div class="absolute inset-[0.5rem] rounded-[12rem] bg-white/2 shadow-[0_0_40px_rgba(173,216,255,0.5)] blur-[4px]"></div>
+                    <div class="absolute inset-[3rem] rounded-[12rem] bg-white/2  shadow-[0_0_30px_rgba(173,216,255,0.4)] blur-[3px]"></div>
+                    <div class="absolute inset-[6rem] rounded-[12rem] bg-white/2 shadow-[0_0_20px_rgba(173,216,255,0.3)] blur-[2px]"></div>
+                    <div class="absolute inset-[10rem] rounded-[8rem] bg-white/2 shadow-[inset_0_0_30px_rgba(255,255,255,0.4)] blur-[1px]"></div>
+                </div>
+            </div>
+            <div aria-hidden="true" class="absolute inset-x-0 top-1/2 transform -translate-y-1/2 overflow-hidden blur-3xl">
+                <div style="clip-path:polygon(74.1% 44.1%, 100% 61.6%, 97.5% 26.9%, 85.5% 0.1%, 80.7% 2%, 72.5% 32.5%, 60.2% 62.4%, 52.4% 68.1%, 47.5% 58.3%, 45.2% 34.5%, 27.5% 76.7%, 0.1% 64.9%, 17.9% 100%, 27.6% 76.8%, 76.1% 97.7%, 74.1% 44.1%)" class="relative left-1/2 aspect-[1155/678] w-96 -translate-x-1/2 bg-gradient-to-tr from-blue-500 to-blue-600 opacity-30 sm:w-[36rem] md:w-[72rem]"></div>
+            </div>
+            <div class="relative text-center z-[1] mx-auto max-w-3xl lg:pb-16">
+                <h1 class="text-4xl font-medium tracking-tight text-balance text-zinc-900 sm:text-7xl">Everything You Need. Before You Ask.</h1>
+                <p class="mx-auto max-w-lg mt-5 text-lg/6 lg:text-xl/6 font-medium text-balance text-zinc-500">Cluely is an undetectable AI that sees your screen, hears your calls, and feeds you answers — in real time.</p>
+                <span hidden="" style="position:fixed;top:1px;left:1px;width:1px;height:0;padding:0;margin:-1px;overflow:hidden;clip:rect(0, 0, 0, 0);white-space:nowrap;border-width:0;display:none"></span>
+                <div class="grid items-center justify-center gap-y-2.5 mt-10">
+                    <a class="flex group items-center gap-x-2 rounded-full bg-black px-7.5 py-3 text-md font-semibold text-white shadow-xs outline-none hover:-translate-y-0.5 transition hover:scale-[100.5%] hover:bg-black/90" href="https://github.com/cluely/releases/releases/latest/download/cluely.dmg">
+                        <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" class="mb-0.5 group-hover:text-sky-50 transition" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M11.6734 7.22198C10.7974 7.22198 9.44138 6.22598 8.01338 6.26198C6.12938 6.28598 4.40138 7.35397 3.42938 9.04597C1.47338 12.442 2.92538 17.458 4.83338 20.218C5.76938 21.562 6.87338 23.074 8.33738 23.026C9.74138 22.966 10.2694 22.114 11.9734 22.114C13.6654 22.114 14.1454 23.026 15.6334 22.99C17.1454 22.966 18.1054 21.622 19.0294 20.266C20.0974 18.706 20.5414 17.194 20.5654 17.11C20.5294 17.098 17.6254 15.982 17.5894 12.622C17.5654 9.81397 19.8814 8.46998 19.9894 8.40998C18.6694 6.47798 16.6414 6.26198 15.9334 6.21398C14.0854 6.06998 12.5374 7.22198 11.6734 7.22198ZM14.7934 4.38998C15.5734 3.45398 16.0894 2.14598 15.9454 0.849976C14.8294 0.897976 13.4854 1.59398 12.6814 2.52998C11.9614 3.35798 11.3374 4.68998 11.5054 5.96198C12.7414 6.05798 14.0134 5.32598 14.7934 4.38998Z"></path>
+                        </svg>
+                        <span class="group-hover:text-sky-50 transition">Download for Mac</span>
+                    </a>
+                    <a class="text-sm/6 font-semibold text-zinc-900/60 hover:text-blue-600/80 underline" href="https://github.com/cluely/releases/releases/latest/download/cluely-setup.exe">Download for windows</a>
+                </div>
+            </div>
+            <div class="hidden z-[11] lg:block absolute -bottom-[11.5rem] left-1/2 transform -translate-x-1/2 z-[1] max-w-2xl pointer-events-none">
+                <img src="/_next/static/media/frame.e956ee74.webp" alt="cluely-ui" class=""/>
+            </div>
+        </div>
+        <div id="features" class="mx-auto max-w-7xl pt-20 lg:pt-65 select-none lg:border-x border-zinc-200 overflow-hidden">
+            <div class="mx-auto max-w-2xl sm:text-center px-5 lg:px-0">
+                <h2 class="text-lg/10 font-base text-zinc-500 uppercase">The turning point of thought</h2>
+                <p class="mt-2 text-4xl font-medium tracking-tight text-pretty text-black sm:text-5xl sm:text-balance">Cluely helps with anything it sees or hears.</p>
+            </div>
+            <div class="grid lg:grid-cols-2 mt-20 mb-16 lg:mb-0 pointer-events-none lg:border-y border-zinc-200 lg:divide-x divide-zinc-200">
+                <div class="relative">
+                    <img src="/_next/static/media/bento1.3b364800.png"/>
+                    <div class="lg:absolute px-8 -mt-36 lg:mt-0 lg:pl-0 bottom-16 left-10 w-full lg:w-auto">
+                        <h2 class="text-2xl font-medium break-words">Sees what you see</h2>
+                        <p class="w-full lg:w-100 mt-3 text-base leading-5 text-zinc-600 break-words">Cluely sees and understands all the content on your screen — code, slides, questions, docs, dashboards.</p>
+                    </div>
+                    <div class="hidden lg:block absolute bg-[#0055FE] w-1 h-8.5 bottom-28.5 -left-[1px]"></div>
+                </div>
+                <div class="relative">
+                    <img src="/_next/static/media/bento2.5d45c6ca.png"/>
+                    <div class="lg:absolute px-8 -mt-36 lg:mt-0 lg:pl-0 bottom-16 left-10 w-full lg:w-auto">
+                        <h2 class="text-2xl font-medium break-words">Hears what you hear</h2>
+                        <p class="w-full lg:w-110 mt-3 text-base leading-5 text-zinc-600 break-words">Cluely listens silently in the background and understands your meetings in real time — without ever joining them.</p>
+                    </div>
+                    <div class="hidden lg:block absolute bg-[#0055FE] w-1 h-8.5 bottom-28.5 -left-[1px]"></div>
+                </div>
+            </div>
+            <div class="relative pointer-events-none lg:border-b border-zinc-200">
+                <img src="/_next/static/media/bento3.b9446d98.png"/>
+                <div class="lg:absolute pl-8 mt-8 lg:mt-0 lg:pl-0 bottom-16 left-10 w-full lg:w-auto">
+                    <h2 class="text-2xl font-medium break-words">Answers anything</h2>
+                    <p class="w-full lg:w-100 mt-3 text-base leading-5 text-zinc-600 break-words">Just press a key. Cluely knows what you’re doing and responds with exactly what matters — no switching tabs, no guesswork.</p>
+                </div>
+                <div class="hidden lg:block absolute bg-[#0055FE] w-1 h-8.5 bottom-34 -left-[1px]"></div>
+            </div>
+        </div>
+        <div class="mx-auto max-w-7xl sm:text-center py-36 border-x border-zinc-200">
+            <p class="text-center mt-2 text-4xl font-medium tracking-tight text-pretty text-black sm:text-5xl sm:text-balance">“This feels like cheating.”</p>
+            <a class="w-40 mx-auto mt-8 flex group items-center gap-x-2 rounded-full bg-black px-6 py-2.5 text-lg font-semibold text-white shadow-xs outline-none hover:-translate-y-0.5 transition hover:scale-[100.5%] hover:bg-black/90" href="/manifesto">
+                We agree.
+                <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <circle cx="10" cy="10.9469" r="10" fill="#282828"></circle>
+                    <mask id="mask0_1_567" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="20" height="21">
+                        <circle cx="10" cy="10.9469" r="10" fill="#282828"></circle>
+                    </mask>
+                    <g mask="url(#mask0_1_567)">
+                        <path d="M4.78544 8.12311L12.8231 8.12311M12.8231 8.12311L12.8231 16.1608M12.8231 8.12311L3.1779 17.7683" stroke="white" stroke-width="1.3" stroke-linecap="square"></path>
+                    </g>
+                </svg>
+            </a>
+        </div>
+        <div class="bg-[#181B20]">
+            <div class="mx-auto max-w-6xl sm:text-center pt-18 lg:pt-26">
+                <div class="max-w-80 mx-auto lg:max-w-6xl">
+                    <h2 class="mt-2 text-3xl lg:text-5xl font-medium tracking-tight text-white sm:text-5xl sm:text-balance">Undetectable by design.</h2>
+                    <p class="mt-4 text-lg lg:text-xl max-w-lg mx-auto font-base tracking-tight text-zinc-400 leading-6">No bots in the room. No Zoom guests. No screen-share trails. Works on everything.</p>
+                </div>
+                <img src="/_next/static/media/works.2bbce57b.png" class="h-46 lg:h-50 mt-8 mx-auto"/>
+                <div class="mt-12 select-none pointer-events-none">
+                    <div class="py-16 mx-auto grid grid-cols-1 gap-x-12 gap-y-16 sm:gap-y-20 lg:mx-0 lg:max-w-none lg:grid-cols-5 items-center">
+                        <div class="lg:pr-8 pl-8 lg:pl-0 col-span-2">
+                            <div class="text-left">
+                                <h2 class="text-2xl font-medium tracking-tight text-white mb-4">Doesn’t join meetings</h2>
+                                <p class="text-base text-zinc-300">Cluely never shows up in shared screens, recordings, or external meeting tools. It’s fully hidden from everyone but you.</p>
+                            </div>
+                        </div>
+                        <div class="lg:order-2 col-span-3 p-8 lg:p-0 -mt-14 lg:mt-0">
+                            <img alt="Doesn’t join meetings-screenshot" src="/_next/static/media/meeting.d6f4df3a.png" class="bg-[#1D2025] rounded-[18px] w-full max-w-none ring-1 ring-white/5"/>
+                        </div>
+                    </div>
+                    <div class="py-16 mx-auto grid grid-cols-1 gap-x-12 gap-y-16 sm:gap-y-20 lg:mx-0 lg:max-w-none lg:grid-cols-5 items-center">
+                        <div class="lg:ml-auto pl-8 lg:order-2 col-span-2">
+                            <div class="text-left">
+                                <h2 class="text-2xl font-medium tracking-tight text-white mb-4">Invisible to screen-share</h2>
+                                <p class="text-base text-zinc-300">Cluely never shows up in shared screens, recordings, or external meeting tools. It’s fully hidden from everyone but you.</p>
+                            </div>
+                        </div>
+                        <div class="lg:order-1 col-span-3 p-8 lg:p-0 -mt-14 lg:mt-0">
+                            <img alt="Invisible to screen-share-screenshot" src="/_next/static/media/screen.8c07aba8.png" class="bg-[#1D2025] rounded-[18px] w-full max-w-none ring-1 ring-white/5"/>
+                        </div>
+                    </div>
+                    <div class="py-16 mx-auto grid grid-cols-1 gap-x-12 gap-y-16 sm:gap-y-20 lg:mx-0 lg:max-w-none lg:grid-cols-5 items-center">
+                        <div class="lg:pr-8 pl-8 lg:pl-0 col-span-2">
+                            <div class="text-left">
+                                <h2 class="text-2xl font-medium tracking-tight text-white mb-4">Follow your eyes</h2>
+                                <p class="text-base text-zinc-300">Cluely’s window is fully moveable so you can position it exactly where you’re looking — without ever breaking concentration.</p>
+                            </div>
+                        </div>
+                        <div class="lg:order-2 col-span-3 p-8 lg:p-0 -mt-14 lg:mt-0">
+                            <img alt="Follow your eyes-screenshot" src="/_next/static/media/eyes.00797834.png" class="bg-[#1D2025] rounded-[18px] w-full max-w-none ring-1 ring-white/5"/>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="usage" class="mx-auto max-w-7xl pt-32 select-none pointer-events-none border-x border-zinc-200">
+            <h1 class="text-4xl font-medium max-w-md ml-8 lg:-mb-12">Three ways Cluely changes how you think.</h1>
+            <div class="flex flex-col md:flex-row">
+                <div class="w-full md:w-3/5 md:sticky md:top-0 md:h-screen flex items-center justify-center">
+                    <div class="relative w-full h-full flex items-center justify-center">
+                        <div class="absolute w-full h-full flex items-center justify-center transition-opacity duration-500 opacity-100 z-10">
+                            <img src="/_next/static/media/meeting.c59aeb79.png" alt="Section 1 image" class="max-w-full max-h-full object-contain rounded-r-[18px] border-r border-y border-zinc-200/70"/>
+                        </div>
+                        <div class="absolute w-full h-full flex items-center justify-center transition-opacity duration-500 opacity-0 z-0">
+                            <img src="/_next/static/media/sales.a83b1a9d.png" alt="Section 2 image" class="max-w-full max-h-full object-contain rounded-r-[18px] border-r border-y border-zinc-200/70"/>
+                        </div>
+                        <div class="absolute w-full h-full flex items-center justify-center transition-opacity duration-500 opacity-0 z-0">
+                            <img src="/_next/static/media/deep.b625b59c.png" alt="Section 3 image" class="max-w-full max-h-full object-contain rounded-r-[18px] border-r border-y border-zinc-200/70"/>
+                        </div>
+                    </div>
+                </div>
+                <div class="w-full md:w-1/2 md:ml-auto">
+                    <div class="lg:min-h-screen h-[45rem] flex items-center overflow-hidden">
+                        <div class="max-w-xl">
+                            <div class="p-8 lg:pl-20">
+                                <h2 class="text-5xl font-medium mb-4">Meetings</h2>
+                                <p class="text-xl text-zinc-600 max-w-94">Cluely hears the conversation and gives you live, context-aware responses to questions, and recalls information from earlier in the transcript so you never lose the thread.</p>
+                            </div>
+                            <div class="h-80 md:hidden mt-6 flex items-center justify-center">
+                                <img src="/_next/static/media/meeting.c59aeb79.png" alt="Section 1 image (mobile view)" class="max-h-full object-contain"/>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="lg:min-h-screen h-[45rem] flex items-center overflow-hidden">
+                        <div class="max-w-xl">
+                            <div class="p-8 lg:pl-20">
+                                <h2 class="text-5xl font-medium mb-4">Sales calls</h2>
+                                <p class="text-xl text-zinc-600 max-w-94">Cluely helps you handle objections and arms non-technical sales reps with product info exactly when it’s needed.</p>
+                            </div>
+                            <div class="h-80 md:hidden mt-6 flex items-center justify-center">
+                                <img src="/_next/static/media/sales.a83b1a9d.png" alt="Section 2 image (mobile view)" class="max-h-full object-contain"/>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="lg:min-h-screen h-[45rem] flex items-center overflow-hidden">
+                        <div class="max-w-xl">
+                            <div class="p-8 lg:pl-20">
+                                <h2 class="text-5xl font-medium mb-4">Solo deep work</h2>
+                                <p class="text-xl text-zinc-600 max-w-94">Even without audio, Cluely reads your screen and responds to prompts or context. Whether you &#x27;re studying, debugging, writing, or researching, Cluely helps you think.</p>
+                            </div>
+                            <div class="h-80 md:hidden mt-6 flex items-center justify-center">
+                                <img src="/_next/static/media/deep.b625b59c.png" alt="Section 3 image (mobile view)" class="max-h-full object-contain"/>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="relative mx-auto max-w-7xl py-60 mt-10 lg:mt-0 inset-ring-1 inset-ring-zinc-200 select-none">
+            <img alt="hero-background" loading="lazy" decoding="async" data-nimg="fill" class="relative z-[0] object-cover object-center fill" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent" sizes="100vw" srcSet="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcta.f1f97aa0.png&amp;w=640&amp;q=75 640w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcta.f1f97aa0.png&amp;w=750&amp;q=75 750w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcta.f1f97aa0.png&amp;w=828&amp;q=75 828w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcta.f1f97aa0.png&amp;w=1080&amp;q=75 1080w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcta.f1f97aa0.png&amp;w=1200&amp;q=75 1200w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcta.f1f97aa0.png&amp;w=1920&amp;q=75 1920w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcta.f1f97aa0.png&amp;w=2048&amp;q=75 2048w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcta.f1f97aa0.png&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcta.f1f97aa0.png&amp;w=3840&amp;q=75"/>
+            <div class="relative ml-8 lg:text-center z-[1]">
+                <span class="uppercase text-zinc-500 tracking-tight text-lg">Welcome to</span>
+                <h1 class="mt-2 text-5xl font-medium tracking-tight text-balance text-zinc-900 sm:text-6xl">The Turning Point of Thought.</h1>
+                <span hidden="" style="position:fixed;top:1px;left:1px;width:1px;height:0;padding:0;margin:-1px;overflow:hidden;clip:rect(0, 0, 0, 0);white-space:nowrap;border-width:0;display:none"></span>
+                <div class="grid items-center gap-y-2.5 mt-10 ml-2 lg:ml-0 justify-start lg:justify-center text-center">
+                    <a class="flex group items-center gap-x-2 rounded-full bg-black px-7.5 py-3 text-md font-semibold text-white shadow-xs outline-none hover:-translate-y-0.5 transition hover:scale-[100.5%] hover:bg-black/90" href="https://github.com/cluely/releases/releases/latest/download/cluely.dmg">
+                        <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" class="mb-0.5 group-hover:text-sky-50 transition" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M11.6734 7.22198C10.7974 7.22198 9.44138 6.22598 8.01338 6.26198C6.12938 6.28598 4.40138 7.35397 3.42938 9.04597C1.47338 12.442 2.92538 17.458 4.83338 20.218C5.76938 21.562 6.87338 23.074 8.33738 23.026C9.74138 22.966 10.2694 22.114 11.9734 22.114C13.6654 22.114 14.1454 23.026 15.6334 22.99C17.1454 22.966 18.1054 21.622 19.0294 20.266C20.0974 18.706 20.5414 17.194 20.5654 17.11C20.5294 17.098 17.6254 15.982 17.5894 12.622C17.5654 9.81397 19.8814 8.46998 19.9894 8.40998C18.6694 6.47798 16.6414 6.26198 15.9334 6.21398C14.0854 6.06998 12.5374 7.22198 11.6734 7.22198ZM14.7934 4.38998C15.5734 3.45398 16.0894 2.14598 15.9454 0.849976C14.8294 0.897976 13.4854 1.59398 12.6814 2.52998C11.9614 3.35798 11.3374 4.68998 11.5054 5.96198C12.7414 6.05798 14.0134 5.32598 14.7934 4.38998Z"></path>
+                        </svg>
+                        <span class="group-hover:text-sky-50 transition">Download for Mac</span>
+                    </a>
+                    <a class="text-sm/6 font-semibold text-zinc-900/60 hover:text-blue-600/80 underline" href="https://github.com/cluely/releases/releases/latest/download/cluely-setup.exe">Download for windows</a>
+                </div>
+            </div>
+        </div>
+        <!--$-->
+        <!--/$-->
+        <!--$-->
+        <!--/$-->
+        <footer class="bg-black text-white relative flex flex-col w-full h-full justify-between lg:h-screen select-none">
+            <div class="container mx-auto flex flex-col md:flex-row justify-between w-full gap-4 pb-24 pt-8 px-4">
+                <div class="space-y-2">
+                    <ul class="flex flex-wrap gap-4">
+                        <li>
+                            <a href="/terms" class="text-sm hover:text-sky-400">Terms &amp;policies</a>
+                        </li>
+                        <li>
+                            <a href="/privacy-policy" class="text-sm hover:text-sky-400">Privacy policy</a>
+                        </li>
+                    </ul>
+                    <p class="text-sm mt-4 flex items-center gap-x-1">
+                        <svg class="size-3" viewBox="0 0 80 80">
+                            <path fill-rule="evenodd" clip-rule="evenodd" fill="currentColor" d="M67.4307 11.5693C52.005 -3.85643 26.995 -3.85643 11.5693 11.5693C-3.85643 26.995 -3.85643 52.005 11.5693 67.4307C26.995 82.8564 52.005 82.8564 67.4307 67.4307C82.8564 52.005 82.8564 26.995 67.4307 11.5693ZM17.9332 17.9332C29.8442 6.02225 49.1558 6.02225 61.0668 17.9332C72.9777 29.8442 72.9777 49.1558 61.0668 61.0668C59.7316 62.4019 58.3035 63.5874 56.8032 64.6232L56.8241 64.6023C46.8657 54.6439 46.8657 38.4982 56.8241 28.5398L58.2383 27.1256L51.8744 20.7617L50.4602 22.1759C40.5018 32.1343 24.3561 32.1343 14.3977 22.1759L14.3768 22.1968C15.4126 20.6965 16.5981 19.2684 17.9332 17.9332ZM34.0282 38.6078C25.6372 38.9948 17.1318 36.3344 10.3131 30.6265C7.56889 39.6809 9.12599 49.76 14.9844 57.6517L34.0282 38.6078ZM21.3483 64.0156C29.24 69.874 39.3191 71.4311 48.3735 68.6869C42.6656 61.8682 40.0052 53.3628 40.3922 44.9718L21.3483 64.0156Z"></path>
+                        </svg>
+                        Cluely 
+                        <!-- -->
+                        2025
+                        <!-- -->
+                        . All Rights Reserved
+                    </p>
+                </div>
+                <div class="space-y-4">
+                    <ul class="flex flex-wrap gap-4">
+                        <li>
+                            <a href="/careers" class="text-sm hover:text-sky-400">Careers</a>
+                        </li>
+                        <li>
+                            <a href="/manifesto" class="text-sm hover:text-sky-400">Manifesto</a>
+                        </li>
+                        <li>
+                            <a href="/help-center" class="text-sm hover:text-sky-400">Help Center</a>
+                        </li>
+                        <li>
+                            <a href="https://x.com/trycluely" class="text-sm hover:text-sky-400">Twitter</a>
+                        </li>
+                        <li>
+                            <a href="https://www.instagram.com/trycluely" class="text-sm hover:text-sky-400">Instagram</a>
+                        </li>
+                        <li>
+                            <a href="https://github.com/cluely" class="text-sm hover:text-sky-400">GitHub</a>
+                        </li>
+                    </ul>
+                    <div class="text-right mt-4">
+                        <button class="text-sm hover:underline inline-flex items-center">Back to top</button>
+                    </div>
+                </div>
+            </div>
+            <div id="waveContainer" aria-hidden="true" style="overflow:hidden;height:200px">
+                <div style="margin-top:0px">
+                    <div class="wave-segment" style="height:1px;background-color:#ffffff;transition:transform 0.1s ease;will-change:transform;margin-top:-2px"></div>
+                    <div class="wave-segment" style="height:2px;background-color:#ffffff;transition:transform 0.1s ease;will-change:transform;margin-top:-2px"></div>
+                    <div class="wave-segment" style="height:3px;background-color:#ffffff;transition:transform 0.1s ease;will-change:transform;margin-top:-2px"></div>
+                    <div class="wave-segment" style="height:4px;background-color:#ffffff;transition:transform 0.1s ease;will-change:transform;margin-top:-2px"></div>
+                    <div class="wave-segment" style="height:5px;background-color:#ffffff;transition:transform 0.1s ease;will-change:transform;margin-top:-2px"></div>
+                    <div class="wave-segment" style="height:6px;background-color:#ffffff;transition:transform 0.1s ease;will-change:transform;margin-top:-2px"></div>
+                    <div class="wave-segment" style="height:7px;background-color:#ffffff;transition:transform 0.1s ease;will-change:transform;margin-top:-2px"></div>
+                    <div class="wave-segment" style="height:8px;background-color:#ffffff;transition:transform 0.1s ease;will-change:transform;margin-top:-2px"></div>
+                    <div class="wave-segment" style="height:9px;background-color:#ffffff;transition:transform 0.1s ease;will-change:transform;margin-top:-2px"></div>
+                    <div class="wave-segment" style="height:10px;background-color:#ffffff;transition:transform 0.1s ease;will-change:transform;margin-top:-2px"></div>
+                    <div class="wave-segment" style="height:11px;background-color:#ffffff;transition:transform 0.1s ease;will-change:transform;margin-top:-2px"></div>
+                    <div class="wave-segment" style="height:12px;background-color:#ffffff;transition:transform 0.1s ease;will-change:transform;margin-top:-2px"></div>
+                    <div class="wave-segment" style="height:13px;background-color:#ffffff;transition:transform 0.1s ease;will-change:transform;margin-top:-2px"></div>
+                    <div class="wave-segment" style="height:14px;background-color:#ffffff;transition:transform 0.1s ease;will-change:transform;margin-top:-2px"></div>
+                    <div class="wave-segment" style="height:15px;background-color:#ffffff;transition:transform 0.1s ease;will-change:transform;margin-top:-2px"></div>
+                    <div class="wave-segment" style="height:16px;background-color:#ffffff;transition:transform 0.1s ease;will-change:transform;margin-top:-2px"></div>
+                    <div class="wave-segment" style="height:17px;background-color:#ffffff;transition:transform 0.1s ease;will-change:transform;margin-top:-2px"></div>
+                    <div class="wave-segment" style="height:18px;background-color:#ffffff;transition:transform 0.1s ease;will-change:transform;margin-top:-2px"></div>
+                    <div class="wave-segment" style="height:19px;background-color:#ffffff;transition:transform 0.1s ease;will-change:transform;margin-top:-2px"></div>
+                    <div class="wave-segment" style="height:20px;background-color:#ffffff;transition:transform 0.1s ease;will-change:transform;margin-top:-2px"></div>
+                    <div class="wave-segment" style="height:21px;background-color:#ffffff;transition:transform 0.1s ease;will-change:transform;margin-top:-2px"></div>
+                    <div class="wave-segment" style="height:22px;background-color:#ffffff;transition:transform 0.1s ease;will-change:transform;margin-top:-2px"></div>
+                    <div class="wave-segment" style="height:23px;background-color:#ffffff;transition:transform 0.1s ease;will-change:transform;margin-top:-2px"></div>
+                </div>
+            </div>
+        </footer>
+        <script src="/_next/static/chunks/webpack-bf7038d81bb81a5b.js" async=""></script>
+        <script>
+            (self.__next_f = self.__next_f || []).push([0])
+        </script>
+        <script>
+            self.__next_f.push([1, "1:\"$Sreact.fragment\"\n2:I[4961,[\"874\",\"static/chunks/874-2fe3b00f3984fea1.js\",\"277\",\"static/chunks/277-b4c1a060303f8e58.js\",\"542\",\"static/chunks/542-6c2540bf48ec816d.js\",\"371\",\"static/chunks/371-87e69172ddccf52f.js\",\"177\",\"static/chunks/app/layout-471e112ee3d170d1.js\"],\"Navbar\"]\n3:I[7555,[],\"\"]\n4:I[1295,[],\"\"]\n5:I[6874,[\"204\",\"static/chunks/94730671-6ca32be235ea3d97.js\",\"874\",\"static/chunks/874-2fe3b00f3984fea1.js\",\"277\",\"static/chunks/277-b4c1a060303f8e58.js\",\"542\",\"static/chunks/542-6c2540bf48ec816d.js\",\"371\",\"static/chunks/371-87e69172ddccf52f.js\",\"694\",\"static/chunks/694-e3d2f64372cd0913.js\",\"658\",\"static/chunks/app/(index)/page-2469fe9a84699b71.js\"],\"\"]\n6:I[3317,[\"874\",\"static/chunks/874-2fe3b00f3984fea1.js\",\"277\",\"static/chunks/277-b4c1a060303f8e58.js\",\"542\",\"static/chunks/542-6c2540bf48ec816d.js\",\"371\",\"static/chunks/371-87e69172ddccf52f.js\",\"177\",\"static/chunks/app/layout-471e112ee3d170d1.js\"],\"Footer\"]\n7:I[42,[\"204\",\"static/chunks/94730671-6ca32be235ea3d97.js\",\"874\",\"static/chunks/874-2fe3b00f3984fea1.js\",\"277\",\"static/chunks/277-b4c1a060303f8e58.js\",\"542\",\"static/chunks/542-6c2540bf48ec816d.js\",\"371\",\"static/chunks/371-87e69172ddccf52f.js\",\"694\",\"static/chunks/694-e3d2f64372cd0913.js\",\"658\",\"static/chunks/app/(index)/page-2469fe9a84699b71.js\"],\"default\"]\n8:I[6902,[\"204\",\"static/chunks/94730671-6ca32be235ea3d97.js\",\"874\",\"static/chunks/874-2fe3b00f3984fea1.js\",\"277\",\"static/chunks/277-b4c1a060303f8e58.js\",\"542\",\"static/chunks/542-6c2540bf48ec816d.js\",\"371\",\"static/chunks/371-87e69172ddccf52f.js\",\"694\",\"static/chunks/694-e3d2f64372cd0913.js\",\"658\",\"static/chunks/app/(index)/page-2469fe9a84699b71.js\"],\"default\"]\n9:I[3063,[\"204\",\"static/chunks/94730671-6ca32be235ea3d97.js\",\"874\",\"static/chunks/874-2fe3b00f3984fea1.js\",\"277\",\"static/chunks/277-b4c1a060303f8e58.js\",\"542\",\"static/chunks/542-6c2540bf48ec816d.js\",\"371\",\"static/chunks/371-87e69172ddccf52f.js\",\"694\",\"static/chunks/694-e3d2f64372cd0913.js\",\"658\",\"static/chunks/app/(index)/page-2469fe9a84699b71.js\"],\"Image\"]\na:I[9665,[],\"MetadataBoundary\"]\nc:I[9665,["])
+        </script>
+        <script>
+            self.__next_f.push([1, "],\"OutletBoundary\"]\nf:I[4911,[],\"AsyncMetadataOutlet\"]\n11:I[9665,[],\"ViewportBoundary\"]\n13:I[6614,[],\"\"]\n:HL[\"/_next/static/css/1bc6e60723b8c736.css\",\"style\"]\n"])
+        </script>
+        <script>
+            self.__next_f.push([1, "0:{\"P\":null,\"b\":\"uT583LDKFlUBjCUJ9xSAw\",\"p\":\"\",\"c\":[\"\",\"\"],\"i\":false,\"f\":[[[\"\",{\"children\":[\"(index)\",{\"children\":[\"__PAGE__\",{}]}]},\"$undefined\",\"$undefined\",true],[\"\",[\"$\",\"$1\",\"c\",{\"children\":[[[\"$\",\"link\",\"0\",{\"rel\":\"stylesheet\",\"href\":\"/_next/static/css/1bc6e60723b8c736.css\",\"precedence\":\"next\",\"crossOrigin\":\"$undefined\",\"nonce\":\"$undefined\"}]],[\"$\",\"html\",null,{\"lang\":\"en\",\"children\":[\"$\",\"body\",null,{\"children\":[[\"$\",\"$L2\",null,{}],[\"$\",\"$L3\",null,{\"parallelRouterKey\":\"children\",\"error\":\"$undefined\",\"errorStyles\":\"$undefined\",\"errorScripts\":\"$undefined\",\"template\":[\"$\",\"$L4\",null,{}],\"templateStyles\":\"$undefined\",\"templateScripts\":\"$undefined\",\"notFound\":[[\"$\",\"main\",null,{\"className\":\"mx-auto w-full max-w-7xl px-6 py-24 sm:py-40 lg:col-span-2 lg:col-start-1 lg:row-start-2 lg:px-8 select-none\",\"children\":[\"$\",\"div\",null,{\"className\":\"max-w-lg\",\"children\":[[\"$\",\"div\",null,{\"className\":\"mb-10 font-mono uppercase md:mb-[58px]\",\"children\":[\"error - \",[\"$\",\"span\",null,{\"className\":\"opacity-40\",\"children\":\"[page not found]\"}]]}],[\"$\",\"h1\",null,{\"className\":\"mt-4 text-6xl font-semibold tracking-tight text-pretty text-zinc-900 sm:text-7xl\",\"children\":\"404\"}],[\"$\",\"p\",null,{\"className\":\"mt-6 text-lg font-medium text-pretty text-zinc-500 sm:text-xl/8\",\"children\":\"The page you were looking for has mysteriously disappeared... or never existed at all.\"}],[\"$\",\"div\",null,{\"className\":\"mt-10\",\"children\":[\"$\",\"$L5\",null,{\"href\":\"/\",\"className\":\"flex items-center gap-x-1 w-42 text-lg/7 font-medium rounded-full pl-4 py-2 text-white bg-black hover:opacity-85\",\"children\":[\"Back to home\",[\"$\",\"svg\",null,{\"width\":\"20\",\"height\":\"21\",\"viewBox\":\"0 0 20 21\",\"fill\":\"none\",\"xmlns\":\"http://www.w3.org/2000/svg\",\"children\":[[\"$\",\"circle\",null,{\"cx\":\"10\",\"cy\":\"10.9469\",\"r\":\"10\",\"fill\":\"#282828\"}],[\"$\",\"mask\",null,{\"id\":\"mask0_1_567\",\"style\":{\"maskType\":\"alpha\"},\"maskUnits\":\"userSpaceOnUse\",\"x\":\"0\",\"y\":\"0\",\"width\":\"20\",\"height\":\"21\",\"children\":[\"$\",\"circle\",null,{\"cx\":\"10\",\"cy\":\"10.9469\",\"r\":\"10\",\"fill\":\"#282828\"}]}],[\"$\",\"g\",null,{\"mask\":\"url(#mask0_1_567)\",\"children\":[\"$\",\"path\",null,{\"d\":\"M4.78544 8.12311L12.8231 8.12311M12.8231 8.12311L12.8231 16.1608M12.8231 8.12311L3.1779 17.7683\",\"stroke\":\"white\",\"strokeWidth\":\"1.3\",\"strokeLinecap\":\"square\"}]}]]}]]}]}]]}]}],[]],\"forbidden\":\"$undefined\",\"unauthorized\":\"$undefined\"}],[\"$\",\"$L6\",null,{}]]}]}]]}],{\"children\":[\"(index)\",[\"$\",\"$1\",\"c\",{\"children\":[null,[\"$\",\"$L3\",null,{\"parallelRouterKey\":\"children\",\"error\":\"$undefined\",\"errorStyles\":\"$undefined\",\"errorScripts\":\"$undefined\",\"template\":[\"$\",\"$L4\",null,{}],\"templateStyles\":\"$undefined\",\"templateScripts\":\"$undefined\",\"notFound\":\"$undefined\",\"forbidden\":\"$undefined\",\"unauthorized\":\"$undefined\"}]]}],{\"children\":[\"__PAGE__\",[\"$\",\"$1\",\"c\",{\"children\":[[[\"$\",\"div\",null,{\"className\":\"relative py-32 sm:py-48 lg:py-60 select-none bg-gradient-to-t from-blue-100 to-blue-200\",\"children\":[[\"$\",\"div\",null,{\"className\":\"hidden lg:block\",\"children\":[\"$\",\"div\",null,{\"className\":\"absolute inset-0 overflow-hidden contain-paint\",\"children\":[[\"$\",\"div\",null,{\"className\":\"absolute inset-[0.5rem] rounded-[12rem] bg-white/2 shadow-[0_0_40px_rgba(173,216,255,0.5)] blur-[4px]\"}],[\"$\",\"div\",null,{\"className\":\"absolute inset-[3rem] rounded-[12rem] bg-white/2  shadow-[0_0_30px_rgba(173,216,255,0.4)] blur-[3px]\"}],[\"$\",\"div\",null,{\"className\":\"absolute inset-[6rem] rounded-[12rem] bg-white/2 shadow-[0_0_20px_rgba(173,216,255,0.3)] blur-[2px]\"}],[\"$\",\"div\",null,{\"className\":\"absolute inset-[10rem] rounded-[8rem] bg-white/2 shadow-[inset_0_0_30px_rgba(255,255,255,0.4)] blur-[1px]\"}]]}]}],[\"$\",\"div\",null,{\"aria-hidden\":\"true\",\"className\":\"absolute inset-x-0 top-1/2 transform -translate-y-1/2 overflow-hidden blur-3xl\",\"children\":[\"$\",\"div\",null,{\"style\":{\"clipPath\":\"polygon(74.1% 44.1%, 100% 61.6%, 97.5% 26.9%, 85.5% 0.1%, 80.7% 2%, 72.5% 32.5%, 60.2% 62.4%, 52.4% 68.1%, 47.5% 58.3%, 45.2% 34.5%, 27.5% 76.7%, 0.1% 64.9%, 17.9% 100%, 27.6% 76.8%, 76.1% 97.7%, 74.1% 44.1%)\"},\"className\":\"relative left-1/2 aspect-[1155/678] w-96 -translate-x-1/2 bg-gradient-to-tr from-blue-500 to-blue-600 opacity-30 sm:w-[36rem] md:w-[72rem]\"}]}],[\"$\",\"div\",null,{\"className\":\"relative text-center z-[1] mx-auto max-w-3xl lg:pb-16\",\"children\":[[\"$\",\"h1\",null,{\"className\":\"text-4xl font-medium tracking-tight text-balance text-zinc-900 sm:text-7xl\",\"children\":\"Everything You Need. Before You Ask.\"}],[\"$\",\"p\",null,{\"className\":\"mx-auto max-w-lg mt-5 text-lg/6 lg:text-xl/6 font-medium text-balance text-zinc-500\",\"children\":\"Cluely is an undetectable AI that sees your screen, hears your calls, and feeds you answers — in real time.\"}],[\"$\",\"$L7\",null,{\"className\":\"mt-10\"}]]}],[\"$\",\"div\",null,{\"className\":\"hidden z-[11] lg:block absolute -bottom-[11.5rem] left-1/2 transform -translate-x-1/2 z-[1] max-w-2xl pointer-events-none\",\"children\":[\"$\",\"img\",null,{\"src\":\"/_next/static/media/frame.e956ee74.webp\",\"alt\":\"cluely-ui\",\"className\":\"\"}]}]]}],[\"$\",\"div\",null,{\"id\":\"features\",\"className\":\"mx-auto max-w-7xl pt-20 lg:pt-65 select-none lg:border-x border-zinc-200 overflow-hidden\",\"children\":[[\"$\",\"div\",null,{\"className\":\"mx-auto max-w-2xl sm:text-center px-5 lg:px-0\",\"children\":[[\"$\",\"h2\",null,{\"className\":\"text-lg/10 font-base text-zinc-500 uppercase\",\"children\":\"The turning point of thought\"}],[\"$\",\"p\",null,{\"className\":\"mt-2 text-4xl font-medium tracking-tight text-pretty text-black sm:text-5xl sm:text-balance\",\"children\":\"Cluely helps with anything it sees or hears.\"}]]}],[\"$\",\"div\",null,{\"className\":\"grid lg:grid-cols-2 mt-20 mb-16 lg:mb-0 pointer-events-none lg:border-y border-zinc-200 lg:divide-x divide-zinc-200\",\"children\":[[\"$\",\"div\",null,{\"className\":\"relative\",\"children\":[[\"$\",\"img\",null,{\"src\":\"/_next/static/media/bento1.3b364800.png\"}],[\"$\",\"div\",null,{\"className\":\"lg:absolute px-8 -mt-36 lg:mt-0 lg:pl-0 bottom-16 left-10 w-full lg:w-auto\",\"children\":[[\"$\",\"h2\",null,{\"className\":\"text-2xl font-medium break-words\",\"children\":\"Sees what you see\"}],[\"$\",\"p\",null,{\"className\":\"w-full lg:w-100 mt-3 text-base leading-5 text-zinc-600 break-words\",\"children\":\"Cluely sees and understands all the content on your screen — code, slides, questions, docs, dashboards.\"}]]}],[\"$\",\"div\",null,{\"className\":\"hidden lg:block absolute bg-[#0055FE] w-1 h-8.5 bottom-28.5 -left-[1px]\"}]]}],[\"$\",\"div\",null,{\"className\":\"relative\",\"children\":[[\"$\",\"img\",null,{\"src\":\"/_next/static/media/bento2.5d45c6ca.png\"}],[\"$\",\"div\",null,{\"className\":\"lg:absolute px-8 -mt-36 lg:mt-0 lg:pl-0 bottom-16 left-10 w-full lg:w-auto\",\"children\":[[\"$\",\"h2\",null,{\"className\":\"text-2xl font-medium break-words\",\"children\":\"Hears what you hear\"}],[\"$\",\"p\",null,{\"className\":\"w-full lg:w-110 mt-3 text-base leading-5 text-zinc-600 break-words\",\"children\":\"Cluely listens silently in the background and understands your meetings in real time — without ever joining them.\"}]]}],[\"$\",\"div\",null,{\"className\":\"hidden lg:block absolute bg-[#0055FE] w-1 h-8.5 bottom-28.5 -left-[1px]\"}]]}]]}],[\"$\",\"div\",null,{\"className\":\"relative pointer-events-none lg:border-b border-zinc-200\",\"children\":[[\"$\",\"img\",null,{\"src\":\"/_next/static/media/bento3.b9446d98.png\"}],[\"$\",\"div\",null,{\"className\":\"lg:absolute pl-8 mt-8 lg:mt-0 lg:pl-0 bottom-16 left-10 w-full lg:w-auto\",\"children\":[[\"$\",\"h2\",null,{\"className\":\"text-2xl font-medium break-words\",\"children\":\"Answers anything\"}],[\"$\",\"p\",null,{\"className\":\"w-full lg:w-100 mt-3 text-base leading-5 text-zinc-600 break-words\",\"children\":\"Just press a key. Cluely knows what you’re doing and responds with exactly what matters — no switching tabs, no guesswork.\"}]]}],[\"$\",\"div\",null,{\"className\":\"hidden lg:block absolute bg-[#0055FE] w-1 h-8.5 bottom-34 -left-[1px]\"}]]}]]}],[\"$\",\"div\",null,{\"className\":\"mx-auto max-w-7xl sm:text-center py-36 border-x border-zinc-200\",\"children\":[[\"$\",\"p\",null,{\"className\":\"text-center mt-2 text-4xl font-medium tracking-tight text-pretty text-black sm:text-5xl sm:text-balance\",\"children\":\"“This feels like cheating.”\"}],[\"$\",\"$L5\",null,{\"href\":\"/manifesto\",\"className\":\"w-40 mx-auto mt-8 flex group items-center gap-x-2 rounded-full bg-black px-6 py-2.5 text-lg font-semibold text-white shadow-xs outline-none hover:-translate-y-0.5 transition hover:scale-[100.5%] hover:bg-black/90\",\"children\":[\"We agree.\",[\"$\",\"svg\",null,{\"width\":\"20\",\"height\":\"21\",\"viewBox\":\"0 0 20 21\",\"fill\":\"none\",\"xmlns\":\"http://www.w3.org/2000/svg\",\"children\":[[\"$\",\"circle\",null,{\"cx\":\"10\",\"cy\":\"10.9469\",\"r\":\"10\",\"fill\":\"#282828\"}],[\"$\",\"mask\",null,{\"id\":\"mask0_1_567\",\"style\":{\"maskType\":\"alpha\"},\"maskUnits\":\"userSpaceOnUse\",\"x\":\"0\",\"y\":\"0\",\"width\":\"20\",\"height\":\"21\",\"children\":[\"$\",\"circle\",null,{\"cx\":\"10\",\"cy\":\"10.9469\",\"r\":\"10\",\"fill\":\"#282828\"}]}],[\"$\",\"g\",null,{\"mask\":\"url(#mask0_1_567)\",\"children\":[\"$\",\"path\",null,{\"d\":\"M4.78544 8.12311L12.8231 8.12311M12.8231 8.12311L12.8231 16.1608M12.8231 8.12311L3.1779 17.7683\",\"stroke\":\"white\",\"strokeWidth\":\"1.3\",\"strokeLinecap\":\"square\"}]}]]}]]}]]}],[\"$\",\"div\",null,{\"className\":\"bg-[#181B20]\",\"children\":[\"$\",\"div\",null,{\"className\":\"mx-auto max-w-6xl sm:text-center pt-18 lg:pt-26\",\"children\":[[\"$\",\"div\",null,{\"className\":\"max-w-80 mx-auto lg:max-w-6xl\",\"children\":[[\"$\",\"h2\",null,{\"className\":\"mt-2 text-3xl lg:text-5xl font-medium tracking-tight text-white sm:text-5xl sm:text-balance\",\"children\":\"Undetectable by design.\"}],[\"$\",\"p\",null,{\"className\":\"mt-4 text-lg lg:text-xl max-w-lg mx-auto font-base tracking-tight text-zinc-400 leading-6\",\"children\":\"No bots in the room. No Zoom guests. No screen-share trails. Works on everything.\"}]]}],[\"$\",\"img\",null,{\"src\":\"/_next/static/media/works.2bbce57b.png\",\"className\":\"h-46 lg:h-50 mt-8 mx-auto\"}],[\"$\",\"div\",null,{\"className\":\"mt-12 select-none pointer-events-none\",\"children\":[[\"$\",\"div\",\"0\",{\"className\":\"py-16 mx-auto grid grid-cols-1 gap-x-12 gap-y-16 sm:gap-y-20 lg:mx-0 lg:max-w-none lg:grid-cols-5 items-center\",\"children\":[[\"$\",\"div\",null,{\"className\":\"lg:pr-8 pl-8 lg:pl-0 col-span-2\",\"children\":[\"$\",\"div\",null,{\"className\":\"text-left\",\"children\":[[\"$\",\"h2\",null,{\"className\":\"text-2xl font-medium tracking-tight text-white mb-4\",\"children\":\"Doesn’t join meetings\"}],[\"$\",\"p\",null,{\"className\":\"text-base text-zinc-300\",\"children\":\"Cluely never shows up in shared screens, recordings, or external meeting tools. It’s fully hidden from everyone but you.\"}]]}]}],[\"$\",\"div\",null,{\"className\":\"lg:order-2 col-span-3 p-8 lg:p-0 -mt-14 lg:mt-0\",\"children\":[\"$\",\"img\",null,{\"alt\":\"Doesn’t join meetings-screenshot\",\"src\":\"/_next/static/media/meeting.d6f4df3a.png\",\"className\":\"bg-[#1D2025] rounded-[18px] w-full max-w-none ring-1 ring-white/5\"}]}]]}],[\"$\",\"div\",\"1\",{\"className\":\"py-16 mx-auto grid grid-cols-1 gap-x-12 gap-y-16 sm:gap-y-20 lg:mx-0 lg:max-w-none lg:grid-cols-5 items-center\",\"children\":[[\"$\",\"div\",null,{\"className\":\"lg:ml-auto pl-8 lg:order-2 col-span-2\",\"children\":[\"$\",\"div\",null,{\"className\":\"text-left\",\"children\":[[\"$\",\"h2\",null,{\"className\":\"text-2xl font-medium tracking-tight text-white mb-4\",\"children\":\"Invisible to screen-share\"}],[\"$\",\"p\",null,{\"className\":\"text-base text-zinc-300\",\"children\":\"Cluely never shows up in shared screens, recordings, or external meeting tools. It’s fully hidden from everyone but you.\"}]]}]}],[\"$\",\"div\",null,{\"className\":\"lg:order-1 col-span-3 p-8 lg:p-0 -mt-14 lg:mt-0\",\"children\":[\"$\",\"img\",null,{\"alt\":\"Invisible to screen-share-screenshot\",\"src\":\"/_next/static/media/screen.8c07aba8.png\",\"className\":\"bg-[#1D2025] rounded-[18px] w-full max-w-none ring-1 ring-white/5\"}]}]]}],[\"$\",\"div\",\"2\",{\"className\":\"py-16 mx-auto grid grid-cols-1 gap-x-12 gap-y-16 sm:gap-y-20 lg:mx-0 lg:max-w-none lg:grid-cols-5 items-center\",\"children\":[[\"$\",\"div\",null,{\"className\":\"lg:pr-8 pl-8 lg:pl-0 col-span-2\",\"children\":[\"$\",\"div\",null,{\"className\":\"text-left\",\"children\":[[\"$\",\"h2\",null,{\"className\":\"text-2xl font-medium tracking-tight text-white mb-4\",\"children\":\"Follow your eyes\"}],[\"$\",\"p\",null,{\"className\":\"text-base text-zinc-300\",\"children\":\"Cluely’s window is fully moveable so you can position it exactly where you’re looking — without ever breaking concentration.\"}]]}]}],[\"$\",\"div\",null,{\"className\":\"lg:order-2 col-span-3 p-8 lg:p-0 -mt-14 lg:mt-0\",\"children\":[\"$\",\"img\",null,{\"alt\":\"Follow your eyes-screenshot\",\"src\":\"/_next/static/media/eyes.00797834.png\",\"className\":\"bg-[#1D2025] rounded-[18px] w-full max-w-none ring-1 ring-white/5\"}]}]]}]]}]]}]}],[\"$\",\"$L8\",null,{}],[\"$\",\"div\",null,{\"className\":\"relative mx-auto max-w-7xl py-60 mt-10 lg:mt-0 inset-ring-1 inset-ring-zinc-200 select-none\",\"children\":[[\"$\",\"$L9\",null,{\"fill\":true,\"src\":\"/_next/static/media/cta.f1f97aa0.png\",\"alt\":\"hero-background\",\"className\":\"relative z-[0] object-cover object-center fill\"}],[\"$\",\"div\",null,{\"className\":\"relative ml-8 lg:text-center z-[1]\",\"children\":[[\"$\",\"span\",null,{\"className\":\"uppercase text-zinc-500 tracking-tight text-lg\",\"children\":\"Welcome to\"}],[\"$\",\"h1\",null,{\"className\":\"mt-2 text-5xl font-medium tracking-tight text-balance text-zinc-900 sm:text-6xl\",\"children\":\"The Turning Point of Thought.\"}],[\"$\",\"$L7\",null,{\"className\":\"mt-10 ml-2 lg:ml-0 justify-start lg:justify-center text-center\"}]]}]]}]],[\"$\",\"$La\",null,{\"children\":\"$Lb\"}],null,[\"$\",\"$Lc\",null,{\"children\":[\"$Ld\",\"$Le\",[\"$\",\"$Lf\",null,{\"promise\":\"$@10\"}]]}]]}],{},null,false]},null,false]},null,false],[\"$\",\"$1\",\"h\",{\"children\":[null,[\"$\",\"$1\",\"dsmwcuSJOxr04fPnP_tuU\",{\"children\":[[\"$\",\"$L11\",null,{\"children\":\"$L12\"}],null]}],null]}],false]],\"m\":\"$undefined\",\"G\":[\"$13\",\"$undefined\"],\"s\":false,\"S\":true}\n"])
+        </script>
+        <script>
+            self.__next_f.push([1, "14:\"$Sreact.suspense\"\n15:I[4911,[],\"AsyncMetadata\"]\nb:[\"$\",\"$14\",null,{\"fallback\":null,\"children\":[\"$\",\"$L15\",null,{\"promise\":\"$@16\"}]}]\n"])
+        </script>
+        <script>
+            self.__next_f.push([1, "e:null\n"])
+        </script>
+        <script>
+            self.__next_f.push([1, "12:[[\"$\",\"meta\",\"0\",{\"charSet\":\"utf-8\"}],[\"$\",\"meta\",\"1\",{\"name\":\"viewport\",\"content\":\"width=device-width, initial-scale=1\"}]]\nd:null\n"])
+        </script>
+        <script>
+            self.__next_f.push([1, "16:{\"metadata\":[[\"$\",\"title\",\"0\",{\"children\":\"Cluely\"}],[\"$\",\"meta\",\"1\",{\"name\":\"description\",\"content\":\"Everything You Need. Before You Ask.\"}],[\"$\",\"meta\",\"2\",{\"property\":\"og:title\",\"content\":\"Cluely\"}],[\"$\",\"meta\",\"3\",{\"property\":\"og:description\",\"content\":\"Everything You Need. Before You Ask.\"}],[\"$\",\"meta\",\"4\",{\"property\":\"og:image:type\",\"content\":\"image/png\"}],[\"$\",\"meta\",\"5\",{\"property\":\"og:image:width\",\"content\":\"1280\"}],[\"$\",\"meta\",\"6\",{\"property\":\"og:image:height\",\"content\":\"640\"}],[\"$\",\"meta\",\"7\",{\"property\":\"og:image\",\"content\":\"https://cluely.com/opengraph-image.png?77f2c7ba9633baa1\"}],[\"$\",\"meta\",\"8\",{\"name\":\"twitter:card\",\"content\":\"summary_large_image\"}],[\"$\",\"meta\",\"9\",{\"name\":\"twitter:title\",\"content\":\"Cluely\"}],[\"$\",\"meta\",\"10\",{\"name\":\"twitter:description\",\"content\":\"Everything You Need. Before You Ask.\"}],[\"$\",\"meta\",\"11\",{\"name\":\"twitter:image:type\",\"content\":\"image/png\"}],[\"$\",\"meta\",\"12\",{\"name\":\"twitter:image:width\",\"content\":\"1280\"}],[\"$\",\"meta\",\"13\",{\"name\":\"twitter:image:height\",\"content\":\"640\"}],[\"$\",\"meta\",\"14\",{\"name\":\"twitter:image\",\"content\":\"https://cluely.com/twitter-image.png?77f2c7ba9633baa1\"}],[\"$\",\"link\",\"15\",{\"rel\":\"icon\",\"href\":\"/icon.svg?1e74f43885f4f740\",\"type\":\"image/svg+xml\",\"sizes\":\"any\"}]],\"error\":null,\"digest\":\"$undefined\"}\n10:{\"metadata\":\"$16:metadata\",\"error\":null,\"digest\":\"$undefined\"}\n"])
+        </script>
+        <!-- Cloudflare Pages Analytics -->
+        <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "3649f47bdae04c728a4bf0f8df6fa96a"}'></script>
+        <!-- Cloudflare Pages Analytics -->
+        <script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"rayId":"94a967698f842b02","serverTiming":{"name":{"cfExtPri":true,"cfEdge":true,"cfOrigin":true,"cfL4":true,"cfSpeedBrain":true,"cfCacheStatus":true}},"version":"2025.5.0","token":"4cd89ca91f5144acb8dd43edd5eaedd0"}' crossorigin="anonymous"></script>
+    </body>
+</html>
