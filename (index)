@@ -48,6 +48,24 @@
         </script>
         <script src="/_next/static/chunks/polyfills-42372ed130431b0a.js" noModule=""></script>
     </head>
+<script>
+  const segments = document.querySelectorAll('.wave-segment');
+  let t = 0;
+
+  function animateWave() {
+    t += 0.08;
+    segments.forEach((segment, i) => {
+      const amplitude = 10;
+      const frequency = 0.4;
+      const y = Math.sin(t + i * frequency) * amplitude;
+      segment.style.transform = `translateY(${y}px)`;
+    });
+    requestAnimationFrame(animateWave);
+  }
+
+  animateWave();
+</script>
+
     <body>
         <div class="mx-auto fixed flex left-0 right-0 top-0 w-full z-[12] items-center justify-between max-w-[76rem] select-none transition-all duration-300 ease-spring bg-transparent lg:mt-5">
             <header class="relative isolate w-full">
