@@ -3349,3 +3349,9 @@
     font-style: italic;
     font-display: swap
 }
+
+
+.wave-segment {
+  transition: transform 0.2s ease-out;
+  will-change: transform;
+}
